@@ -1,0 +1,27 @@
+p{
+
+    font-family: Arial;
+    text-align: center;
+
+}
+
+.Centrado{
+    font-family: Arial;
+    text-align: center;
+}
+
+h1{
+    font-family: Arial;
+  
+}
+
+ul{
+    font-family: Arial;
+}
+
+#ParrafoForm{
+    color:red;
+    font-family: Arial;
+    text-align: center;
+    background-color: antiquewhite;
+}
