@@ -5,6 +5,14 @@ p{
 
 }
 
+.imgPrincipal{
+    margin-left: 620px;
+}
+
+#margenIzq{
+    margin-left: 50px;
+}
+
 .Centrado{
     font-family: Arial;
     text-align: center;
@@ -20,8 +28,8 @@ ul{
 }
 
 #ParrafoForm{
-    color:red;
+    color:rgb(90, 75, 233);
     font-family: Arial;
     text-align: center;
-    background-color: antiquewhite;
+    background-color: rgba(38, 0, 255, 0.11);
 }
