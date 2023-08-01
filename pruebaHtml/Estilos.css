@@ -1,34 +1,41 @@
-p{
+p {
 
     font-family: Arial;
     text-align: center;
 
 }
-
-.imgPrincipal{
-    margin-left: 620px;
+ /* Usando fuente de google */
+.GoogleF {
+    font-family: 'Montserrat', sans-serif;
 }
 
-#margenIzq{
+.imgPrincipal {
+    margin-left: 620px;
+    box-shadow: 10px 10px 5px rgb(54, 54, 54);
+    border-radius: 10px;
+    border: 5px solid rgba(53, 53, 53, 0.801);
+}
+
+#margenIzq {
     margin-left: 50px;
 }
 
-.Centrado{
+.Centrado {
     font-family: Arial;
     text-align: center;
 }
 
-h1{
+h1 {
     font-family: Arial;
-  
+
 }
 
-ul{
+ul {
     font-family: Arial;
 }
 
-#ParrafoForm{
-    color:rgb(90, 75, 233);
+#ParrafoForm {
+    color: rgb(90, 75, 233);
     font-family: Arial;
     text-align: center;
     background-color: rgba(38, 0, 255, 0.11);
