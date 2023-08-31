@@ -1,4 +1,4 @@
-const num1 = parseInt(prompt('Ingrese la distancia a recorrer:', 'hola'));
+const num1 = parseInt(prompt('Ingrese la distancia a recorrer:', ''));
     if (num1 > 100000) {
     document.write(`Viaje en Avion`);
         } else if (num1 <= 100000 && num1 > 30000) {
