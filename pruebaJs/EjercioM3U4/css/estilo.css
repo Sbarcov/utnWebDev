@@ -1,0 +1,62 @@
+
+#contenedor {
+    border: 1px solid black;
+    background-color: white;
+    margin: 100px auto;
+    width: 600px;
+    height: 200px;
+    display: flex;
+
+}
+
+#rojo {
+    position: relative;
+    border: 1px solid black;
+    background: linear-gradient(rgb(255, 0, 0), rgb(255, 136, 0)) fixed;
+    margin: 0 auto;
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#azul {
+    position: relative;
+    border: 1px solid black;
+    background: linear-gradient(rgb(0, 17, 255), rgb(111, 9, 194)) fixed;
+    margin: 0 auto;
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#verde {
+    position: relative;
+    border: 1px solid black;
+    background: linear-gradient(rgb(30, 255, 0), rgb(0, 255, 200)) fixed;
+    margin: 0 auto;
+    width: 33%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#txtarea{
+    border: 1px solid black;
+    background-color: white;
+    margin: 10px auto;
+    width: 600px;
+    height: 200px;
+    display: flex;
+}
+
+h1{
+    text-align: center;
+}
+#aprobados{
+    font-size: medium;
+}
